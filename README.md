@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, eu sou a Larissa Volfart 👩🏼‍💻
+# Olá, eu sou Larissa Volfart 👩🏼‍💻
 
 #### 🎓 Dentista em transição para Desenvolvedora Frontend 
  Oi! Eu sou a Larissa, dentista de formação, mas estou em uma jornada para me tornar uma desenvolvedora frontend. Aqui no meu GitHub você vai encontrar meus projetos de desenvolvimento, estudos e aprendizados sobre HTML, CSS, JavaScript, React, e outras tecnologias que estou explorando para construir interfaces incríveis e funcionais.
