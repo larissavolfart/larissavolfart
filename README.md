@@ -3,22 +3,13 @@
 <!--
 **larissavolfart/larissavolfart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-# Olá, eu sou Larissa Volfart 👩🏼‍💻
+## Me chamo Larissa Volfart 👩🏼‍💻
 
 #### 🎓 Desenvolvedora Frontend 
-Oi! Eu sou a Larissa, sou dentista de formação, mas recentemente realizei minha transição de carreira para a área de desenvolvimento de software.
-Hoje sou desenvolvedora de sistemas júnior, mais focada no desenvolvimento frontend. Aqui no meu GitHub você vai encontrar meus projetos de desenvolvimento, estudos e aprendizados sobre HTML, CSS, JavaScript, React, e outras tecnologias que estou explorando para construir interfaces incríveis e funcionais.
+Eu sou a Larissa, dentista de formação, mas recentemente realizei minha transição de carreira para a área de desenvolvimento de software.
+Hoje trabalho como desenvolvedora de sistemas júnior em uma empresa de logística internacional, mais focada no desenvolvimento frontend. 
+Aqui no meu GitHub você vai encontrar meus projetos de desenvolvimento, estudos e aprendizados sobre HTML, CSS, JavaScript, React, Node.js e outras tecnologias que estou explorando para construir interfaces incríveis e funcionais.
  
  #### 💻 Tecnologias
  
