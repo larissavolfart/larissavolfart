@@ -1,21 +1,18 @@
-## Hi there 👋
+## Hi, I'm Larissa Volfart!
 
-<!--
-**larissavolfart/larissavolfart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🎓 Frontend Developer
+Hello! I'm Larissa — a former dentist who recently transitioned into software development.  
+I currently work as a **Junior Software Developer** at an international logistics company, with a primary focus on **frontend development**.
 
--->
-## Me chamo Larissa Volfart 👩🏼‍💻
+Here on my GitHub, you’ll find projects, studies, and experiments related to **JavaScript, Node.js, HTML, CSS, React, Typescript**, and other technologies I’m exploring to build clean, functional, and user-centered interfaces.
 
-#### 🎓 Desenvolvedora Frontend 
-Eu sou a Larissa, dentista de formação, mas recentemente realizei minha transição de carreira para a área de desenvolvimento de software.
-Hoje trabalho como desenvolvedora de sistemas júnior em uma empresa de logística internacional, mais focada no desenvolvimento frontend. 
-Aqui no meu GitHub você vai encontrar meus projetos de desenvolvimento, estudos e aprendizados sobre HTML, CSS, JavaScript, React, Node.js e outras tecnologias que estou explorando para construir interfaces incríveis e funcionais.
- 
- #### 💻 Tecnologias
+My background in healthcare and public service helped me develop strong **problem-solving skills, logical thinking, responsibility and attention to detail**, which I now bring into software development teams.
+
+ #### 💻 Technologies
  
 ![Icone HTML](https://img.icons8.com/?size=50&id=20909&format=png&color=000000) ![Icone CSS](https://img.icons8.com/?size=50&id=21278&format=png&color=000000) ![Icone JS](https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000) ![Icone Typescript](https://img.icons8.com/?size=50&id=nCj4PvnCO0tZ&format=png&color=000000) ![Icone React](https://img.icons8.com/?size=50&id=123603&format=png&color=000000)
 ![Icone Git](https://img.icons8.com/?size=50&id=20906&format=png&color=000000)![Icone GitHub](https://img.icons8.com/?size=50&id=Mhl1TfJLdkh5&format=png&color=000000)
 
-#### 📬 Contatos
-E-mail: larissavolfart@gmail.com 
-Linkedin:  https://www.linkedin.com/in/larissa-volfart-rocha/ [![Icone Linkedin](https://img.icons8.com/?size=18&id=xuvGCOXi8Wyg&format=png&color=0000000)](https://www.linkedin.com/in/larissa-volfart-rocha/)
+#### 📬 Get in touch
+Email: larissavolfart@gmail.com 
+LinkedIn:  https://www.linkedin.com/in/larissa-volfart-rocha/ [![Icone Linkedin](https://img.icons8.com/?size=18&id=xuvGCOXi8Wyg&format=png&color=0000000)](https://www.linkedin.com/in/larissa-volfart-rocha/)
