@@ -1,7 +1,7 @@
 ## Hi, I'm Larissa Volfart!
 
 #### 🎓 Frontend Developer
-Hello! I'm Larissa — a former dentist who recently transitioned into software development.  
+Hello! I'm Larissa - a former dentist who recently transitioned into software development.  
 I currently work as a **Junior Software Developer** at an international logistics company, with a primary focus on **frontend development**.
 
 Here on my GitHub, you’ll find projects, studies, and experiments related to **JavaScript, Node.js, HTML, CSS, React, Typescript**, and other technologies I’m exploring to build clean, functional, and user-centered interfaces.
