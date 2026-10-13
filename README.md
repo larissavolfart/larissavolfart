@@ -2,9 +2,9 @@
 
 #### 🎓 Frontend Developer
 Hello! I'm Larissa - a former dentist who transitioned into software development.  
-I currently work as a **Junior Software Developer** at an international logistics company, with a primary focus on **frontend development**.
+I currently work as a **Full-Stack Software Developer** at an international logistics company, with a primary focus on **frontend development**.
 
-Here on my GitHub, you’ll find projects, studies, and experiments related to **JavaScript, Node.js, HTML, CSS, React, Typescript**, and other technologies I’m exploring to build clean, functional, and user-centered interfaces.
+Here on my GitHub, you’ll find projects, studies, and experiments related to **JavaScript, Node.js, HTML, CSS, React, Typescript, NestJS**, and other technologies I’m exploring to build clean, functional, and user-centered interfaces.
 
 My background in healthcare and public service helped me develop strong **problem-solving skills, logical thinking, responsibility and attention to detail**, which I now bring into software development teams.
 
