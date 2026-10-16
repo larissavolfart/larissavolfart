@@ -1,18 +1,47 @@
-## Hi, I'm Larissa Volfart!
+# Larissa Volfart
 
-#### 🎓 Frontend Developer
-Hello! I'm Larissa - a former dentist who transitioned into software development.  
-I currently work as a **Full-Stack Software Developer** at an international logistics company, with a primary focus on **frontend development**.
+### Software Developer | Front-end Focused | Full-stack Experience
 
-Here on my GitHub, you’ll find projects, studies, and experiments related to **JavaScript, Node.js, HTML, CSS, React, Typescript, NestJS**, and other technologies I’m exploring to build clean, functional, and user-centered interfaces.
+I'm a Software Developer with a strong focus on front-end development and experience across the full stack. I enjoy translating business requirements into functional, intuitive, and user-centered software solutions.
 
-My background in healthcare and public service helped me develop strong **problem-solving skills, logical thinking, responsibility and attention to detail**, which I now bring into software development teams.
+Currently, I work as a **Full-stack Software Developer at an international logistics company**, contributing to the development and maintenance of an in-house ERP system that supports international operations.
 
- #### 💻 Technologies
- 
-![Icone HTML](https://img.icons8.com/?size=50&id=20909&format=png&color=000000) ![Icone CSS](https://img.icons8.com/?size=50&id=21278&format=png&color=000000) ![Icone JS](https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000) ![Icone Typescript](https://img.icons8.com/?size=50&id=nCj4PvnCO0tZ&format=png&color=000000) ![Icone React](https://img.icons8.com/?size=50&id=123603&format=png&color=000000)
-![Icone Git](https://img.icons8.com/?size=50&id=20906&format=png&color=000000)![Icone GitHub](https://img.icons8.com/?size=50&id=Mhl1TfJLdkh5&format=png&color=000000)
+My work spans the software development lifecycle, from requirements analysis and workflow definition to interface development, backend implementation, API integration, database management, and testing.
 
-#### 📬 Get in touch
-Email: larissavolfart@gmail.com 
-LinkedIn:  https://www.linkedin.com/in/larissa-volfart-rocha/ [![Icone Linkedin](https://img.icons8.com/?size=18&id=xuvGCOXi8Wyg&format=png&color=0000000)](https://www.linkedin.com/in/larissa-volfart-rocha/)
+---
+
+### What I Do
+
+- Develop responsive, accessible, and user-friendly web interfaces.
+- Build backend features and integrate REST APIs using Node.js and related technologies.
+- Design and optimize PostgreSQL queries, CRUD operations, filtering, pagination, and data integrations.
+- Implement business rules, validations, and workflow automation across application layers.
+- Develop features such as automated email notifications and PDF generation.
+- Collaborate with cross-functional teams to deliver reliable solutions aligned with business needs.
+
+### Technologies & Tools
+
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS
+
+**Backend & APIs:** Node.js, NestJS, REST APIs
+
+**Database & ORM:** PostgreSQL, Prisma ORM
+
+**Tools:** Git, GitHub, Docker, Wappler, Postman, DBeaver, Figma, Amazon S3, Claude Code
+
+---
+
+### Background
+
+My professional journey includes experiences in chemical technology, manufacturing, dentistry, and Brazil's public healthcare system (SUS), before transitioning into software development.
+
+These experiences have strengthened my analytical thinking, adaptability, attention to detail, and ability to learn independently.
+
+I'm committed to continuous learning, improving my technical skills, and building software that solves real-world problems. I also value collaborative environments where knowledge sharing and continuous improvement are part of the team's culture.
+
+---
+
+### Contact
+
+- **Email:** [larissavolfart@gmail.com](mailto:larissavolfart@gmail.com)
+- **LinkedIn:** [linkedin.com/in/larissa-voltfart-rocha](https://www.linkedin.com/in/larissa-voltfart-rocha/)
