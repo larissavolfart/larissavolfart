@@ -1,6 +1,6 @@
 # Larissa Volfart
 
-### Software Developer | Front-end Focused | Full-stack Experience
+### Software Developer | Full-stack Developer
 
 I'm a Software Developer with a strong focus on front-end development and experience across the full stack. I enjoy translating business requirements into functional, intuitive, and user-centered software solutions.
 
